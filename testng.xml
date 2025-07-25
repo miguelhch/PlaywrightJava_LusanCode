@@ -1,0 +1,8 @@
+<suite name="Playwright Tests Suite" verbose="1">
+    <test name="Playwright Tests">
+        <classes>
+            <class name="tests.FirstTest"/>
+            <class name="tests.LoginTest2"/>
+        </classes>
+    </test>
+</suite>
